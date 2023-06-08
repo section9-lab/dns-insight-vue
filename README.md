@@ -33,3 +33,13 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Install Naive-UI
+```
+cnpm i -D naive-ui
+```
+
+### Install Fonts
+```
+cnpm i -D vfonts
+```
